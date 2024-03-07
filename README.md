@@ -1,2 +1,2 @@
 # Personal
-Personal Stuff
+Personal projects / Projetos pessoais
